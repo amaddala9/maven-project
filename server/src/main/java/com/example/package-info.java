@@ -1,5 +1,5 @@
 /**
- * This is a package for jenkins testing
+ * This is a package for jenkins testing.
  */
-package come.example;
+package com.example;
 
